@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alangonzalez91.github.io/csb-nqbom8/static/css/main.f67adcf3.chunk.css",
+    "main.js": "https://alangonzalez91.github.io/csb-nqbom8/static/js/main.a08887d3.chunk.js",
+    "main.js.map": "https://alangonzalez91.github.io/csb-nqbom8/static/js/main.a08887d3.chunk.js.map",
+    "runtime-main.js": "https://alangonzalez91.github.io/csb-nqbom8/static/js/runtime-main.6824cd44.js",
+    "runtime-main.js.map": "https://alangonzalez91.github.io/csb-nqbom8/static/js/runtime-main.6824cd44.js.map",
+    "static/js/2.cc863786.chunk.js": "https://alangonzalez91.github.io/csb-nqbom8/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://alangonzalez91.github.io/csb-nqbom8/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://alangonzalez91.github.io/csb-nqbom8/index.html",
+    "static/css/main.f67adcf3.chunk.css.map": "https://alangonzalez91.github.io/csb-nqbom8/static/css/main.f67adcf3.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://alangonzalez91.github.io/csb-nqbom8/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6824cd44.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f67adcf3.chunk.css",
+    "static/js/main.a08887d3.chunk.js"
+  ]
+}
